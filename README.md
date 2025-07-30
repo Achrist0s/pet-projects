@@ -1,1 +1,1 @@
-created his first pet-project but not his last in Python for easier employment
+created his first but not last pet-project in Python for easier employment
