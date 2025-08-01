@@ -1,0 +1,6 @@
+{% extends 'articles/base.html' %}
+{% block content %}
+  <h2>{{ article.title }}</h2>
+  <p>{{ article.content }}</p>
+  <small>Автор: {{ article.author }} | Дата: {{ article.created_at }}</small>
+{% endblock %}
